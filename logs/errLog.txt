@@ -1,0 +1,14 @@
+20230206	08:39:16	c59b7bcb-2e93-43a9-bed8-54b1b6d47f12	Error: Not allowed by CORS
+20230206	10:01:13	6f2aa16d-795a-49ef-b9f1-7c4ccb01b9e2	SyntaxError: Unexpected string in JSON at position 16
+20230208	21:38:06	c5b8e5f4-59ae-41e4-94a2-24532a19a0ab	SyntaxError: Unexpected token , in JSON at position 35
+20230209	07:42:27	46502ddc-93a3-491c-95a4-47e6876f4de4	TypeError: authHeader?.startswith is not a function
+20230209	07:44:14	0b5485fd-2f55-42a7-9f95-caefb02ae52d	TypeError: authHeader?.startswith is not a function
+20230209	07:49:31	e7be369f-5637-41bf-aece-0cd217fee5eb	TypeError: authHeader?.startwith is not a function
+20230209	07:50:57	92e3b8ff-ac31-4998-a22b-e8a5f8aa385d	TypeError: (!authHeader)?.startswith is not a function
+20230209	09:10:22	977caa7d-e0b0-4545-896f-2a616fcc5915	SyntaxError: Unexpected token 
+ in JSON at position 28
+20230209	09:10:56	45b194ca-b19c-4cd0-9864-662c9f05dfb8	SyntaxError: Unexpected token 
+ in JSON at position 28
+20230209	09:11:17	87c04847-fabd-4104-b46d-5cabb899c901	SyntaxError: Unexpected token 
+ in JSON at position 28
+20230211	02:10:08	81fe506b-b157-491a-a99a-10cd12799ecb	SyntaxError: Unexpected string in JSON at position 42

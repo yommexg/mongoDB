@@ -1,0 +1,20 @@
+[
+  {
+    "username": "bolu2",
+    "roles": { "User": 2001 },
+    "password": "$2b$10$NkAJH9foee9j0eKehRT80eUyRXo4KxDqAf/iiDPRxxkb2lemboeES",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImJvbHUyIiwiaWF0IjoxNjc1OTI2MDM2LCJleHAiOjE2NzYwMTI0MzZ9.In6sKqRRePwmkVQs4ju64NaoSV-UlzL9wJNIohNwlAM"
+  },
+  {
+    "username": "bolu3",
+    "roles": { "User": 2001, "Editor": 1984 },
+    "password": "$2b$10$ztSFFxtD7fe8DckY0F42zOJ5LoWMMVvHH8gwAO62h6fTeiVlZjIty",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImJvbHUzIiwiaWF0IjoxNjc1OTMwNDc2LCJleHAiOjE2NzYwMTY4NzZ9.HKNsHVpQrVw62YLZNcT07j6-K0P1j4ZXwoT_q3n5-zY"
+  },
+  {
+    "username": "bolu",
+    "roles": { "User": 2001, "Editor": 1984, "Admin": 5150 },
+    "password": "$2b$10$Z7ViTndlC0VyU2SA32KDzu8T1PgXjpJNgKOedLmQuqYNcGumSrHuK",
+    "refreshToken": " "
+  }
+]
